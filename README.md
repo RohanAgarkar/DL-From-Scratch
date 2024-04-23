@@ -1,1 +1,1 @@
-# DL-From-Scratch
+# Deep Learning from Scratch
