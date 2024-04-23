@@ -66,7 +66,7 @@ After training for 5 epochs, the model achieved an accuracy of approximately 90.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/Neural-Network-from-Scratch.git
+git clone https://github.com/RohanAgarkar/DL-From-Scratch.git
 ```
 
 Install the required dependencies:
