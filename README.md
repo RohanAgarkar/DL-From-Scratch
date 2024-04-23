@@ -92,7 +92,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors
 
-- ![Rohan Agarkar](https://media.licdn.com/dms/image/D4D03AQGNwhF1H5O7Kg/profile-displayphoto-shrink_400_400/0/1705987860347?e=1719446400&v=beta&t=-8F6kpQ_4ooI5QLJbIHkoGOVys4jLPvNRyV4vnyVmRs) [Rohan Agarkar](https://github.com/RohanAgarkar)
-- ![Abhiraj Chaudhuri](https://avatars.githubusercontent.com/u/117913120?v=4) [Abhiraj Chaudhuri](https://github.com/abhie7)
+<!-- - ![Rohan Agarkar](https://media.licdn.com/dms/image/D4D03AQGNwhF1H5O7Kg/profile-displayphoto-shrink_400_400/0/1705987860347?e=1719446400&v=beta&t=-8F6kpQ_4ooI5QLJbIHkoGOVys4jLPvNRyV4vnyVmRs) -->
+- [Rohan Agarkar](https://github.com/RohanAgarkar)
+<!-- - ![Abhiraj Chaudhuri](https://avatars.githubusercontent.com/u/117913120?v=4) -->
+- [Abhiraj Chaudhuri](https://github.com/abhie7)
 
 ---
